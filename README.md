@@ -38,7 +38,7 @@ Soy una apasionada Ingeniera de Software con experiencia en el diseño y desarro
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fioresf&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
-## 🌐 Socials
+# 🌐 Socials
 
 <p align="center">
 	<a href="mailto:salasfonsecafiorella@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
