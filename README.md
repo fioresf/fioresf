@@ -39,7 +39,6 @@ Soy una apasionada Ingeniera de Software con experiencia en el diseño y desarro
 </div>
 
 # 🌐 Socials
-[![Gmail](https://img.icons8.com/bubbles/50/000000/gmail.png)](mailto:salasfonsecafiorella@gmail.com)
 
 <p align="center">
 	<a href="mailto:salasfonsecafiorella@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
