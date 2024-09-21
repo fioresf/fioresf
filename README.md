@@ -15,7 +15,7 @@ https://i.gifer.com/WG8T.gif #Panda
 <tr border="none">
 <td width="90%" align="justify">
   
-Soy una apasionada Ingeniera de Software con experiencia en el diseño y desarrollo de aplicaciones web eficientes y escalables, tanto en frontend como backend. Me apasiona resolver problemas complejos con soluciones innovadoras y siempre busco aprender y adaptarme a las nuevas tendencias tecnológicas.
+Ingeniera de Software con experiencia en el diseño y desarrollo de aplicaciones web eficientes y escalables, tanto en frontend como backend. Me apasiona resolver problemas complejos con soluciones innovadoras y siempre busco aprender y adaptarme a las nuevas tendencias tecnológicas.
 
 </td>
 <td width="20%" align="center">
