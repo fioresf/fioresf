@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Fiorella Salas! <img src="https://i.gifer.com/WG8T.gif" width="60"></h1>
+<h1 align="center">¡Hola, soy Fiorella Salas! <img src="https://i.gifer.com/WG8T.gif" width="60"></h1>
 <!--
 https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif  #Saludo
 https://i.gifer.com/nUq.gif #Gato
